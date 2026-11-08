@@ -1,0 +1,2 @@
+# runtime is pure stdlib; pytest only for the tests
+pytest>=7
